@@ -62,8 +62,7 @@ for their guidance and support during this internship project.
 ---
 
 ## 📂 Project Files in This Repository  
-- `Shield_Insurance_Project.pdf` – [Project report presentation]
-- (file:///D:/Data%20Analytics%20Bootcamp/Internship/week_3/Email_2/sgield%20insurance%20Github/Shield_insurance_project_presentation.pdf).  
+- `Shield_Insurance_Project.pdf` – [Project report presentation](file:///D:/Data%20Analytics%20Bootcamp/Internship/week_3/Email_2/sgield%20insurance%20Github/Shield_insurance_project_presentation.pdf).  
 - `shield insurance project presentation` – [Video presentation of the dashboard](https://www.linkedin.com/feed/update/urn:li:activity:7351498330528481282/)  
 - *(Optional: Add `Shield_Insurance.pbix` if you want to share the PBIX file publicly.)*  
 
