@@ -1,9 +1,7 @@
-# Shield-Insurance-Project
 # 🛡️ Shield Insurance - Power BI Analysis  
 **🚀 Exciting Milestone in my Virtual Internship Journey at Atliq Technology!**  
 
-This project is part of my **virtual internship at Atliq Technology** in collaboration with **Codebasics**. The analysis focuses on **Shield Insurance**, a leading name in comprehensive insurance solutions, providing valuable insights into sales, customer behavior, and revenue trends.  
-
+This project is part of my **virtual internship at Atliq Technology** in collaboration with **Codebasics**. The analysis focuses on **Shield Insurance**.
 ---
 
 ## 📊 Project Overview  
@@ -48,7 +46,7 @@ The Power BI dashboard is designed with **4 interactive pages** for easy explora
 ---
 
 ## 🔗 Interactive Dashboard Link  
-Explore the live dashboard here: [**Click to View**]()  
+Explore the live dashboard here: [**Click to View**](https://app.powerbi.com/groups/me/reports/a261ccf1-b73d-417d-b3ca-9b5936dd3c7b/e90e0a87074ec66d7768?experience=power-bi)  
 
 ---
 
