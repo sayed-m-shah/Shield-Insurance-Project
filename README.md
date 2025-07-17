@@ -1,7 +1,7 @@
 # 🛡️ Shield Insurance - Power BI Analysis  
 **🚀 Exciting Milestone in my Virtual Internship Journey at Atliq Technology!**  
 
-This project is part of my **virtual internship at Atliq Technology** in collaboration with **Codebasics**. The analysis focuses on **Shield Insurance**.
+This project is part of my **virtual internship at Atliq Technology** in collaboration with **Codebasics**. The analysis focuses on **Shield Insurance**, 
 ---
 
 ## 📊 Project Overview  
