@@ -47,7 +47,7 @@ The Power BI dashboard is designed with **4 interactive pages** for easy explora
 ---
 
 ## 🔗 Interactive Dashboard Link  
-Explore the live dashboard here: [**Click to View**](https://app.powerbi.com/groups/me/reports/a261ccf1-b73d-417d-b3ca-9b5936dd3c7b/e90e0a87074ec66d7768?experience=power-bi)  
+Explore the live dashboard here: [**Click to View**](https://app.powerbi.com/view?r=eyJrIjoiOGQxYjMwMjAtY2E5My00YjEyLTlhMWEtNGE0YjhlZTg2OTRhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)  
 
 ---
 
