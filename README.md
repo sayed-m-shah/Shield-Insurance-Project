@@ -63,5 +63,5 @@ for their guidance and support during this internship project.
 
 ## 📂 Project Files in This Repository  
 - `Shield_Insurance_Project.pdf` – [Project report presentation](https://github.com/sayed-m-shah/Shield-Insurance-Project/blob/main/Presentation/Shield%20Insurance%20Project%20Pretintation.pdf)  
-- `shield insurance project presentation` – [Video presentation of the dashboard](https://www.linkedin.com/feed/update/urn:li:activity:7352051989230321664/)  
+- `shield insurance project presentation` – [Video presentation of the dashboard](https://www.linkedin.com/feed/update/urn:li:activity:7354202194708983808/)  
 ---
