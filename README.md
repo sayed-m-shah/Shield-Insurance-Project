@@ -47,7 +47,7 @@ The Power BI dashboard is designed with **4 interactive pages** for easy explora
 ---
 
 ## 🔗 Interactive Dashboard Link  
-Explore the live dashboard here: [**Click to View**](https://app.powerbi.com/view?r=eyJrIjoiOGQxYjMwMjAtY2E5My00YjEyLTlhMWEtNGE0YjhlZTg2OTRhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)  
+Explore the live dashboard here: [**Click to View**](https://app.powerbi.com/view?r=eyJrIjoiMWYyNjVlNjQtODc0YS00NjQwLTlhMGEtZGYyYzAwZDIxZWQzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)  
 
 ---
 
@@ -62,6 +62,6 @@ for their guidance and support during this internship project.
 ---
 
 ## 📂 Project Files in This Repository  
-- `Shield_Insurance_Project.pdf` – [Project report presentation](https://github.com/sayed-m-shah/Shield-Insurance-Project/blob/main/Presentation/Shield%20Insurance%20Project%20pretintation..pdf)  
+- `Shield_Insurance_Project.pdf` – [Project report presentation](https://github.com/sayed-m-shah/Shield-Insurance-Project/blob/main/Presentation/Shield%20Insurance%20Project%20Pretintation.pdf)  
 - `shield insurance project presentation` – [Video presentation of the dashboard](https://www.linkedin.com/feed/update/urn:li:activity:7352051989230321664/)  
 ---
